@@ -18,7 +18,7 @@ public class UserService {
         return userRepository.findAll();
     }
     public User findById(Long id){
-        Optional<User> obj =  userRepository.findById(id);
+        Optional<User> obj = userRepository.findById(id);
         return obj.get();
     }
 }

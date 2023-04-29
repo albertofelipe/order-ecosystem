@@ -1,4 +1,4 @@
-package com.projectalberto.projectapispring.resources;
+package com.projectalberto.projectapispring.controllers;
 
 import com.projectalberto.projectapispring.entities.User;
 import com.projectalberto.projectapispring.services.UserService;
@@ -16,6 +16,7 @@ import java.util.List;
 public class UserResource {
     @Autowired
     private UserService userService;
+
     @GetMapping
     public ResponseEntity<List<User>> findAll() {
         List<User> list = userService.findAll();
