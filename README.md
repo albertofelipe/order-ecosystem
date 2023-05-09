@@ -1,15 +1,16 @@
-# Projeto web services com Spring Boot e JPA / Hibernate 
+## Web services project with Spring Boot and JPA / Hibernate 
 
-# Sobre o projeto
+### About the project
 
-Construção de uma API Rest construída durante o curso de Java organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+- Construction of a API Rest builded during the course of Java and SpringBoot ecosystem organized by [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em implementar um modelo de domínio completo aplicando as melhores práticas, bem como tecnologias atuais de desenvolvimento.
+- The application consists of implementing a complete domain model, using current development technologies.
 
-## Modelo conceitual
+### Conceptual model
+
 ![image006](https://user-images.githubusercontent.com/96255866/236265478-441f75fa-8798-4f1a-814f-da4af7b3b44d.gif)
 
-# Tecnologias utilizadas
+## Technologies used
 
 - Java
 - Spring Boot
@@ -19,7 +20,7 @@ A aplicação consiste em implementar um modelo de domínio completo aplicando a
 - Maven
 - Postman
 
-# Autor
+### Author
 
 Alberto Felipe Monteiro Sena
 
